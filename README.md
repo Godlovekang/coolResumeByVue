@@ -1,4 +1,4 @@
-# 这是一个使用了vue-cli开发的在线建立，创意来自于http://strml.net/
+# 这是一个使用了vue-cli开发的在线简历，创意来自于http://strml.net/
 目前在本地能够跑起来
 不知道github上能不能够预览
 
