@@ -1,3 +1,9 @@
+# 这是一个使用了vue-cli开发的在线建立，创意来自于http://strml.net/
+目前在本地能够跑起来
+不知道github上能不能够预览
+
+
+
 # coolresume
 
 > A Vue.js project
@@ -28,3 +34,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# coolResumeByVue
+>>>>>>> e78497635d0a65619bd179108dc51fdde82b5538
