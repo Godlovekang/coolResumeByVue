@@ -74,7 +74,7 @@ html {
 }
 .code-ct,pre {
   -webkit-transition: 1s;
-          transition: 2s;
+          transition: 1s;
   -webkit-transform: rotateY(10deg) translateZ(-50px);
           transform: rotateY(10deg) translateZ(-50px);
 
@@ -96,7 +96,6 @@ html {
   margin-left: 55vw;
   -webkit-transform: rotateY(-10deg) translateZ(-50px);
           transform: rotateY(-10deg) translateZ(-50px);
-
   box-shadow: -5px 5px 10px rgba(255,255,255,.3);
 }
 .resume-ct {
